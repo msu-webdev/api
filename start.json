@@ -1,0 +1,5 @@
+{
+  "Step": "1 of 3",
+  "Instructions": "How many moons can fit between the Earth and the moon?",
+  "Next Step": "https://msu-webdev.github.io/api/[answer].json"
+}

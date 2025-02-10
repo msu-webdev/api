@@ -1,1 +1,5 @@
-Use 2 significant digits and remove the decimal point to get your next domain (e.g. 3.5% would be 35.json, 2% would be 20.json)
+{
+  "Step": "2 of 3",
+  "Instructions": "What was the percent change in enrollment at MSU from 2023 to 2024? Use 2 significant digits and remove the decimal point to get your next domain: 3.5% would be 35.json",
+  "Next Step": "https://msu-webdev.github.io/api/[answer].json"
+}
